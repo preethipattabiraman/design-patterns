@@ -6,4 +6,4 @@ Java Design Patterns
 
 ## Difference between an algorithm and a design pattern
 | Algorithm | Design Pattern |
-|Step-by step instruction as to how to solve the problem|High-level description of a solution|
+| Step-by-step instruction as to how to solve the problem | High-level description of a solution |
